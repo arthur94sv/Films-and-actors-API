@@ -2,7 +2,7 @@ A web-site that allows the user to introduce their favorite movies with their ac
 
 
 ## Environment set-up
-In order to build and rund the application, the JDK 1.8.0 Update 201, the JRE 1.8.0 Update 201, the Oracle Database 11g Express Edition, Spring Boot 2.1.7, Angular 8.3.3 and NodeJS 12.13.0. 
+In order to build and rund the application, the JDK 1.8.0 Update 201, the JRE 1.8.0 Update 201, the Oracle Database 11g Express Edition, Spring Boot 2.1.7, Angular CLI 8.3.3 and NodeJS 12.13.0. 
 
 
 
